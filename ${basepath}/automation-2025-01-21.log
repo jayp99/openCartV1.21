@@ -1,0 +1,69 @@
+12:00:33.720 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:00:33.737 [main] INFO  testCases.TC003_LoginDDT - *** starting TC003_LoginDDT ***
+12:00:36.990 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+12:01:19.496 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\grouping.xml
+
+12:01:25.014 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:01:27.009 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:02:01.605 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\grouping.xml
+
+12:02:06.578 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001 AccountRegistrationTest ***
+12:02:06.703 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+12:02:07.455 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+12:02:07.460 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+12:02:10.017 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating account created message ***
+12:02:10.065 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+12:02:14.298 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:02:16.263 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+12:05:57.495 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\grouping.xml
+
+12:06:03.071 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001 AccountRegistrationTest ***
+12:06:03.318 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on My Account link ***
+12:06:04.173 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Clicked on Register ***
+12:06:04.182 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Providing customer details ***
+12:06:06.337 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Validating account created message ***
+12:06:06.396 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+12:06:11.601 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:10:48.762 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\test-output\testng-failed.xml
+
+12:10:54.286 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+12:10:56.215 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+14:59:24.519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\master.xml
+
+15:00:11.303 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\master.xml
+
+15:00:17.850 [main] INFO  testCases.TC003_LoginDDT - *** starting TC003_LoginDDT ***
+15:00:20.634 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+15:00:20.664 [main] INFO  testCases.TC003_LoginDDT - *** starting TC003_LoginDDT ***
+15:00:27.184 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+15:00:27.188 [main] INFO  testCases.TC003_LoginDDT - *** starting TC003_LoginDDT ***
+15:00:34.703 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+15:00:34.710 [main] INFO  testCases.TC003_LoginDDT - *** starting TC003_LoginDDT ***
+15:00:41.603 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+15:00:41.608 [main] INFO  testCases.TC003_LoginDDT - *** starting TC003_LoginDDT ***
+15:00:44.550 [main] INFO  testCases.TC003_LoginDDT - *** Finished TC003_LoginDDT ***
+15:02:26.451 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\master.xml
+
+15:02:34.174 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+15:02:37.085 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+15:03:37.606 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\master.xml
+
+15:03:42.801 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+15:03:44.790 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+15:06:54.460 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\master.xml
+
+15:06:59.947 [main] INFO  testCases.TC002_LoginTest - *** Starting TC002_LoginTest ***
+15:07:01.841 [main] INFO  testCases.TC002_LoginTest - *** Finished TC002_LoginTest ***
+15:10:00.160 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\bnjp2\eclipse-workspace\opencartV1.21\crossBrowserTesting.xml
+
+15:10:06.766 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - *** Starting TC001 AccountRegistrationTest ***
